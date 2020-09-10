@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fbreeswish%2Fjemalloc.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fbreeswish%2Fjemalloc?ref=badge_shield)
+
 jemalloc is a general purpose malloc(3) implementation that emphasizes
 fragmentation avoidance and scalable concurrency support.  jemalloc first came
 into use as the FreeBSD libc allocator in 2005, and since then it has found its
@@ -18,3 +20,7 @@ jemalloc.
 The ChangeLog file contains a brief summary of changes for each release.
 
 URL: http://jemalloc.net/
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fbreeswish%2Fjemalloc.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fbreeswish%2Fjemalloc?ref=badge_large)
